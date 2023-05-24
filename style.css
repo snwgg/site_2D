@@ -4,7 +4,7 @@ padding: 0%;
 }
 
 .cabeçalho{
-background-color: lemonchiffon;
+background-color: rgb(23, 26, 187);
 color: black;
 display: flex;
 justify-content: space-around;
@@ -38,5 +38,5 @@ font-size: 30px;
 }
 
 .imagem_arvore{
-width: 15%;
+width: 5%;
 }
