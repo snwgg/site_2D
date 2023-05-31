@@ -5,7 +5,7 @@ padding: 0%;
 
 .cabeçalho{
 background-color: rgb(23, 26, 187);
-color: black;
+color: rgb(255, 250, 250);
 display: flex;
 justify-content: space-around;
 align-items: center;
@@ -17,7 +17,7 @@ width: 12%;
 }
 
 .cabeçalho_titulo{
-font-size: 50px;
+font-size: 60px;
 }
 
 .cabeçalho_lista_item{
@@ -26,7 +26,7 @@ font-size: 16px;
 }
 
 .apresentaçao_trabalho{
-background-image: linear-gradient(lemonchiffon, #dd371a);
+background-image: linear-gradient(rgb(224, 58, 7), #1add2a);
 display: flex;
 justify-content: space-around;
 align-items: center;
