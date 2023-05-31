@@ -26,7 +26,7 @@ font-size: 16px;
 }
 
 .apresentaçao_trabalho{
-background-image: linear-gradient(rgb(237, 234, 233), #d65e13);
+background-image: linear-gradient(rgb(255, 255, 255), #d65e13);
 display: flex;
 justify-content: space-around;
 align-items: center;
@@ -36,6 +36,13 @@ padding: 24px 0;
 .titulo_apresentaçao_trabalho{
 font-size: 30px;
 }
+.Sobre_o_trabalho{font: size 40px; ;
+position:-ms-page;}
+        
+    
+    
+    ]
+]
 
 .imagem_arvore{
 width: 5%;
