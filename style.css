@@ -50,6 +50,6 @@ size: 30px;
 .texto-grande{
     position: fixed;
     padding-top: 30px;
-   size: 50px;
+    font-size: larger;
     
 }
