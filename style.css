@@ -45,11 +45,10 @@ position: fixed;
 size: 30px;
 }
 
-.texto-grande{
-    size: 12px;
-    
-h1 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
 
+
+}
+.texto-grande{
+    position: fixed;
+    padding-left: 30px;
 }
