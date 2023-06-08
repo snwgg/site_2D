@@ -41,6 +41,8 @@ position:-ms-page;}
         
 
 .imagem_arvore{
+    padding: 24px 0;
+display: flex;
 position: center;
 size: 30px;
 }
