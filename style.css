@@ -41,7 +41,9 @@ position:-ms-page;}
         
 
 .imagem_arvore{
-    justify-content: center;
+display: flex;
+align-items: center;
+justify-content: center;
 size: 30px;
 }
 
