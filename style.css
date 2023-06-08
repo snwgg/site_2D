@@ -49,7 +49,7 @@ size: 30px;
 
 
 .texto-grande{
-    position: fixed;
+    justify-content: center;
     padding-top: 15cm;
     font-size: 100px;
     
