@@ -34,10 +34,12 @@ padding: 24px 0;
 }
 
     .titulo_apresentaçao_trabalho{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
     font-size: 30px;
-    justify-content: center;
-    padding-top: 15cm;
-    font-size: 100px;
     
 }
 .Sobre_o_trabalho{font: size 40px; ;
