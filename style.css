@@ -37,7 +37,9 @@ padding: 24px 0;
 font-size: 30px;
 }
 .Sobre_o_trabalho{font: size 40px; ;
-position:-ms-page;}
+position:-ms-page;
+display: flex;
+justify-content: center;}
         
 
 .imagem_arvore{
