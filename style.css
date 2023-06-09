@@ -42,7 +42,7 @@ padding: 24px 0;
     font-size: 30px;
     
 }
-.Sobre_o_trabalho{font: size 40px; ;
+.Sobre_o_trabalho{font: size 20px; ;
 position:-ms-page;
 display: flex;
 justify-content: center;}
@@ -63,6 +63,6 @@ justify-content: center;}
     justify-content: center;
     padding-top: 15cm;
     font-size: 100px;
-    size: 30px;
+    size: 80px;
 
 }
