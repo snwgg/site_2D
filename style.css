@@ -28,7 +28,7 @@ font-size: 16px;
 .apresentaçao_trabalho{
 background-image: linear-gradient(rgb(255, 255, 255), #ffffff);
 display: flex;
-justify-content: space-around;
+justify-content: center;
 align-items: center;
 padding: 24px 0;
 }
