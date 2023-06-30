@@ -64,9 +64,11 @@ justify-content: center;}
   
 
 }
-
-.pulgao 
-{display: flex;
-size: 30px;
-
+.doenca_planta{
+    justify-content: center;
+    size: 20%;
+    display: flex;
+}
+.semana_1 {
+    font-size: 30px
 }
